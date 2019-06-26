@@ -1,0 +1,46 @@
+.position_detail_title {
+    height: 45px;
+    line-height: 45px;
+    background-color: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+  }
+.position_detail_title_bosszhipin {
+    float: left;
+    width: 100px;
+    height: 32px;
+    background: url('https://static.zhipin.com/zhipin/v171/h5/wap/images/logo.png') center center no-repeat;
+    background-size: auto 17px;
+    margin-top: 5px;
+}
+.position_detail_title_searchPosition {
+    float: right;
+
+}
+.position_detail_title_searchPosition >img {
+    width: 120px;
+    height: 26px;
+    margin-top: 10px;
+}
+
+.position_detail_information {
+    height: 100px;
+    background: #62D5C8;
+    padding: 15px;
+}
+
+.position_detail_tranPeople {
+    height: 90px;
+    line-height: 90px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #EEFBF9;
+}
